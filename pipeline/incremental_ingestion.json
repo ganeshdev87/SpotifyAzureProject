@@ -68,6 +68,17 @@
 				}
 			}
 		],
+		"parameters": {
+			"Container": {
+				"type": "string"
+			},
+			"folder": {
+				"type": "string"
+			},
+			"file": {
+				"type": "string"
+			}
+		},
 		"annotations": []
 	}
 }
